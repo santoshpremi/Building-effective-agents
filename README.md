@@ -3,6 +3,7 @@
 
 This repository explores patterns for building effective AI agentic systems based on principles shared by [Anthropic](https://www.anthropic.com/engineering/building-effective-agents). The focus is on using simple, composable patterns rather than overly complex frameworks, starting with foundational components and adding complexity only when necessary and demonstrably beneficial.
 
+Kaggle to play: [Link](https://www.kaggle.com/code/santoshpremiadhikari/build-effecftive-agents)
 ## Core Concepts
 
 Based on the source material, agentic systems can be understood through these key components and patterns:
