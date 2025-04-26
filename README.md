@@ -1,5 +1,5 @@
 
-# Building Effective AI Agentic Systems
+# Building Effective  Agents
 
 This repository explores patterns for building effective AI agentic systems based on principles shared by [Anthropic](https://www.anthropic.com/engineering/building-effective-agents). The focus is on using simple, composable patterns rather than overly complex frameworks, starting with foundational components and adding complexity only when necessary and demonstrably beneficial.
 
